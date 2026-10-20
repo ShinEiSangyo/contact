@@ -1,6 +1,6 @@
 /* MODIFIEZ UNIQUEMENT LES VALEURS ENTRE GUILLEMETS. Vérifiez les coordonnées avant publication. */
 window.COMPANY = {
-  nameJa: "伸栄産業株式会社",
+  nameJa: "伸榮産業株式会社",
   nameEn: "Shin-Ei Sangyo Co., Ltd.",
   email: "info@s-shin-ei.co.jp",
   website: "https://www.s-shin-ei.co.jp",
